@@ -1,0 +1,12 @@
+---
+:id: 89821494
+:submitters:
+- :name: Rebekah Lee
+  :email: rebekah.j.lee-1@ou.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-09-25 04:17:10.400296000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-09-24 21:17:10.400296000 Z
+:status: processed
+:score: 100.0
